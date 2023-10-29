@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-app-ff8ed": {
+      "hosting": {
+        "Project": [
+          "fir-app-ff8ed"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-app-ff8ed"
+  }
+}

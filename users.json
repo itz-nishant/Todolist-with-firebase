@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "firstName": "Rahul",
+      "lastName": "Kumar",
+      "email": "rahul123@gmail.com",
+      "password": "1234567890",
+      "id": 1
+    },
+    {
+      "firstName": "Abhsihek",
+      "lastName": "Kumar",
+      "email": "abhishek123@gmail.com",
+      "password": "1234567890",
+      "id": 2
+    },
+    {
+      "firstName": "Mandeep",
+      "lastName": "Kumar",
+      "email": "mandeep0140@gmail.com",
+      "password": "mandeep123",
+      "id": 3
+    },
+    {
+      "firstName": "Nishant",
+      "lastName": "Kumar",
+      "email": "nishantkr090@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "firstName": "Nitish",
+      "lastName": "Thakur",
+      "email": "nitish@gmail.com",
+      "password": "Nitish000",
+      "id": 5
+    },
+    {
+      "firstName": "Ghanshyam",
+      "lastName": "Kumar",
+      "email": "bca1902113@gmail.com",
+      "password": "123456",
+      "id": 6
+    }
+  ]
+}
